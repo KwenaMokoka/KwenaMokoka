@@ -26,8 +26,8 @@ I am a passionate software developer with expertise in Python, Java, Django, SQL
 
 ### [Project 1: MY CV](https://github.com/KwenaMokoka/MyCV)
 
-The Library Management System is a Java-based application that allows you to manage a collection of books. 
-It supports CRUD (Create, Read, Update, Delete) operations using a MySQL database.
+My cv is a web application that allows potential recruters to view my skills and projects. 
+
 
 ### [Project 2: library Management System](https://github.com/KwenaMokoka/libraryManagement)
 
@@ -35,13 +35,12 @@ The Library Management System is a Java-based application that allows you to man
 It supports CRUD (Create, Read, Update, Delete) operations using a MySQL database.
 
 ### [Project 3: Django HighSchool Registration ](https://github.com/KwenaMokoka/django-)
-A brief description of your Django blog project. Discuss the main features, database used, and any unique aspects of the blog.
-
+The Highschool registration is a python, html & css based application that utilizes Django. it supports CRUD.
 ---
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
+![My Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true)
 
 ---
 
